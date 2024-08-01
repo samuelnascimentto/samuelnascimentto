@@ -1,8 +1,14 @@
-## Olá! Eu sou Samuel nascimento
- 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=AE06FA&size=35&center=true&vCenter=true&width=1000&lines=font=Arial&size=35&duration=3000&pause=1000&color=6C3578&background=FFA8E400&center=true&vCenter=true&repeat=false&random=false&width=1000&height=100&lines=Olá,+meu+nome+é+Samuel+Nascimento.Bem+vindo(a)!;)](https://git.io/typing-svg) 
+
+<h4> 💻 Eu sou estudante de Análise e desenvolvimento; </h4>
+
+</div>
+
+##
   <div>
   <a href="https://github.com/samuelnascimentto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuelnascimentto&show_icons=true&?theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuelnascimentto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelnascimentto&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
@@ -15,9 +21,4 @@
           
 </div>
   
-  ##
- 
-<div> 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+  #
