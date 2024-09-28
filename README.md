@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=AE06FA&size=35&center=true&vCenter=true&width=1000&lines=font=Arial&size=35&duration=3000&pause=1000&color=f1f1f1&background=FFA8E400&center=true&vCenter=true&repeat=false&random=false&width=1000&height=100&lines=+Olá,+meu+nome+é+Samuel.+Seja+Bem+vindo(a)!;)](https://git.io/typing-svg)
 
 <p><p>
-<h3>Social</h3>
+<h3>Social:</h3>
 <p align="left">  
     <a href="https://www.linkedin.com/in/samuel-nascimento-89888330b/" target="_blank">
         <img src="https://img.icons8.com/color/70/000000/linkedin.png" width="70" height="70"/>
@@ -13,7 +13,7 @@
     </a>
 </p>
 
-<h3 align="left">Linguagens e:</h3>
+<h3 align="left">Linguagens e ferramentas:</h3>
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="70" height="70"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="70"/>
